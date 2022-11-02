@@ -16,5 +16,13 @@
   "main": "app.js",
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "Assignment",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinesh1998/-44563-webapps-assignment-10-Vinesh1998.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vinesh1998/-44563-webapps-assignment-10-Vinesh1998/issues"
+  },
+  "homepage": "https://github.com/Vinesh1998/-44563-webapps-assignment-10-Vinesh1998#readme"
 }
