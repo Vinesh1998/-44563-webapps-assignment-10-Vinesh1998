@@ -8,6 +8,6 @@ renderlink:https://f2wb30palla.onrender.com
 ### Class juice details :
 juice
 juice_flavour - string
-juice_cost - number
+juice_name - string
 juice_quantity- number
 
